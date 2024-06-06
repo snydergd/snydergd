@@ -11,6 +11,7 @@
 - ⛏️ Just because a solution works doesn't make it the right one - consider all the factors to avoid a maintenance nightmare
 - 📓 The most important part of finding a solution is understanding the problem fully
 - 🙂 Every tool you use has its own cost - keep things simple
+- 🔄 Every successful relationship requires two-way communication/collaboration, whether with customers, those reporting to you, teammates, or personal relationships - simply creating products, policies, standards without allowing feedback and changes sets both parties up for failure
 
 ## Professional Experience
 Some experience is listed below.
