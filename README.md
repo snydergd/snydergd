@@ -6,6 +6,7 @@
 - 🍻 I am friendly.  No matter the topic, I always try and make the other people involved feel comfortable and welcome.  I like to help people.
 - 🚊 I love to be challenged/questioned - this is how we find agreement and learn!  I believe that I should always be able to make a strong case for my stance and change it when there's new information.
 - ☮️ I can never hold a grudge.  I think caring makes people better more than anything else, and that it's true that "love conquers all".  We are all just humans trying to do our best with the time we have.
+- 🎯 I am goal-driven. There is nothing that motivates me more than having a task (of any sort) that I can show my worth on. I do like to imagine and push towards utopia occasionally, but goals keep me moving.
 
 ## Some things I've learned
 - ⛏️ Just because a solution works doesn't make it the right one - consider all the factors to avoid a maintenance nightmare
