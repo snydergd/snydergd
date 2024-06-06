@@ -14,7 +14,7 @@
 - 📓 The most important part of finding a solution is understanding the problem fully
 - 🙇 Always look for things to learn from all others. If you assume you're gifted, you'll be humbled and won't learn - if you assume your skills are meager, you'll learn and be rewarded
 - 🙂 Every tool you use has its own cost - keep things simple
-- 🔄 Every successful relationship requires two-way communication/collaboration, whether with customers, those reporting to you, teammates, or personal relationships - simply creating products, policies, standards without allowing feedback and changes sets both parties up for failure
+- 🔄 Every successful relationship requires two-way communication/collaboration, whether with customers, those reporting to you, teammates, or personal relationships - simply creating products, policies, standards without allowing feedback and changes sets both parties up for stress and difficulty
 
 ## Professional Experience
 Some experience is listed below.
